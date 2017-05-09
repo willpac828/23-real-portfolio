@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+.section {
+  padding: $m-gutter;
+}
+
+.container {
+  max-width: 65rem;
+}
